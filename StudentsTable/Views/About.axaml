@@ -9,7 +9,7 @@
 		Height="450">
 
 	<Grid RowDefinitions="* *" ColumnDefinitions="*">
-		<TextBlock Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">Ура, почти всё сделал, не прошло и 10 часов</TextBlock>
-		<TextBlock Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">Гончаров Александр ИП-017</TextBlock>
+		<TextBlock Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+		<TextBlock Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
 	</Grid>
 </Window>
